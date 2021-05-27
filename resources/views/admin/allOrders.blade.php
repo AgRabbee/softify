@@ -19,12 +19,12 @@
           <table id="example1" class="table table-bordered table-striped display responsive">
             <thead>
             <tr>
-                <th>Sl</th>
-                <th>Customer</th>
-                <th>Order Details</th>
-                <th>Total Amount</th>
-                <th>Payment Status</th>
-                <th>Order Date</th>
+                <th width="5%">Sl</th>
+                <th width="27%">Customer</th>
+                <th width="40%">Order Details</th>
+                <th width="8%">Total Amount</th>
+                <th width="8%">Payment Status</th>
+                <th width="12%">Order Date</th>
             </tr>
             </thead>
             <tbody>
